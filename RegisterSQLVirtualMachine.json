@@ -1,8 +1,0 @@
-{
-    "SQLVMs":[
-        {"ResourceGroup":"resourceGroup1",
-            "VirtualMachineName":"virtualMachine1"},
-        {"ResourceGroup":"resourceGroup2",
-             "VirtualMachineName":"virtualMachine2"}    
-    ]
-}
