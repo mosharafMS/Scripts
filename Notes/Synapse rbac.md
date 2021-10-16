@@ -53,7 +53,7 @@ ALTER SERVER ROLE dbcreator ADD MEMBER [aadUser@microsoft.com]
 | ------------------------------ | ----------------------------------------- | ------------------------------------------------------------ |
 | **Synapse Artifact Publisher** | SQL Script files                          | Can create and publish. Executing depends on the permissions on the SQL Pools (SQL Server permissions) |
 | **Synapse Artifact Publisher** | pipelines <br />datasets                  | Create and publish pipelines and datasets. BUT can't debug pipelines and can't preview dataset's data |
-| **Synapse Artifact Publisher** | Integration runtime interactive authoring | can enable it                                                |
+| **Contributor**                | Integration runtime interactive authoring | can enable it                                                |
 |                                |                                           |                                                              |
 
 [^**]: To be tested
