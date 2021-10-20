@@ -35,7 +35,7 @@ Then add to the dbcreator role **
 ALTER SERVER ROLE dbcreator ADD MEMBER [aadUser@microsoft.com]
 ```
 
-
+   
 
 
 
