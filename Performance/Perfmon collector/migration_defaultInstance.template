@@ -1,0 +1,32 @@
+\\|ServerName|\LogicalDisk(*)\*
+\\|ServerName|\Memory\Available MBytes
+\\|ServerName|\Memory\Pages Input/sec
+\\|ServerName|\Network Adapter(*)\*
+\\|ServerName|\Paging File(*)\% Usage Peak
+\\|ServerName|\Process(sqlservr#1)\% Privileged Time
+\\|ServerName|\Process(sqlservr#1)\% Processor Time
+\\|ServerName|\Process(sqlservr#1)\ID Process
+\\|ServerName|\Process(sqlservr#2)\% Privileged Time
+\\|ServerName|\Process(sqlservr#2)\% Processor Time
+\\|ServerName|\Process(sqlservr#2)\ID Process
+\\|ServerName|\Process(sqlservr)\% Privileged Time
+\\|ServerName|\Process(sqlservr)\% Processor Time
+\\|ServerName|\Process(sqlservr)\ID Process
+\\|ServerName|\Processor(*)\% Privileged Time
+\\|ServerName|\Processor(*)\% Processor Time
+\\|ServerName|\SQLServer:Batch Resp Statistics(*)\Batches >=001000ms & <002000ms
+\\|ServerName|\SQLServer:Batch Resp Statistics(*)\Batches >=002000ms & <005000ms
+\\|ServerName|\SQLServer:Batch Resp Statistics(*)\Batches >=005000ms & <010000ms
+\\|ServerName|\SQLServer:Batch Resp Statistics(*)\Batches >=010000ms & <020000ms
+\\|ServerName|\SQLServer:Batch Resp Statistics(*)\Batches >=020000ms & <050000ms
+\\|ServerName|\SQLServer:Batch Resp Statistics(*)\Batches >=050000ms & <100000ms
+\\|ServerName|\SQLServer:Batch Resp Statistics(*)\Batches >=100000ms
+\\|ServerName|\SQLServer:Buffer Manager\Checkpoint pages/sec
+\\|ServerName|\SQLServer:Buffer Manager\Lazy writes/sec
+\\|ServerName|\SQLServer:Buffer Manager\Page life expectancy
+\\|ServerName|\SQLServer:Buffer Manager\Page reads/sec
+\\|ServerName|\SQLServer:Buffer Manager\Page writes/sec
+\\|ServerName|\SQLServer:Databases(*)\*
+\\|ServerName|\SQLServer:Memory Manager\Target Server Memory (KB)
+\\|ServerName|\SQLServer:Memory Manager\Total Server Memory (KB)
+\\|ServerName|\SQLServer:SQL Statistics\Batch Requests/sec

@@ -1,0 +1,324 @@
+
+\\|machineName|\Event Tracing for Windows Session(FabricTraces)\Events Logged per sec
+\\|machineName|\Event Tracing for Windows Session(FabricTraces)\Events Lost
+\\|machineName|\Ktl Log Container(*)\Dedicated Write Bytes/sec
+\\|machineName|\Ktl Log Container(*)\Shared Write Bytes/sec
+\\|machineName|\Ktl Log Manager(LogManager)\Write Buffer Memory Pool In Use Bytes
+\\|machineName|\Ktl Log Manager(LogManager)\Write Buffer Memory Pool Limit Bytes
+\\|machineName|\Ktl Log Stream(*)\Application Write Bytes/sec
+\\|machineName|\Ktl Log Stream(*)\Dedicated Log Backlog Bytes
+\\|machineName|\Ktl Log Stream(*)\Dedicated Write Bytes/sec
+\\|machineName|\Ktl Log Stream(*)\DedicatedLog Write Latency
+\\|machineName|\Ktl Log Stream(*)\Shared Write Bytes/sec
+\\|machineName|\Ktl Log Stream(*)\SharedLog In Use Bytes
+\\|machineName|\Ktl Log Stream(*)\SharedLog Quota Bytes
+\\|machineName|\Ktl Log Stream(*)\SharedLog Write Latency
+\\|machineName|\Memory\Available MBytes
+\\|machineName|\Memory\Page Reads/sec
+\\|machineName|\Memory\Pages Input/sec
+\\|machineName|\Memory\Pages Output/sec
+\\|machineName|\Memory\Pages/sec
+\\|machineName|\Memory\Pool Nonpaged Bytes
+\\|machineName|\Memory\Pool Paged Bytes
+\\|machineName|\PhysicalDisk(0 C:)\% Disk Read Time
+\\|machineName|\PhysicalDisk(0 C:)\% Disk Time
+\\|machineName|\PhysicalDisk(0 C:)\% Disk Write Time
+\\|machineName|\PhysicalDisk(0 C:)\% Idle Time
+\\|machineName|\PhysicalDisk(0 C:)\Avg. Disk Bytes/Read
+\\|machineName|\PhysicalDisk(0 C:)\Avg. Disk Bytes/Write
+\\|machineName|\PhysicalDisk(0 C:)\Avg. Disk Queue Length
+\\|machineName|\PhysicalDisk(0 C:)\Avg. Disk Read Queue Length
+\\|machineName|\PhysicalDisk(0 C:)\Avg. Disk Write Queue Length
+\\|machineName|\PhysicalDisk(0 C:)\Avg. Disk sec/Read
+\\|machineName|\PhysicalDisk(0 C:)\Avg. Disk sec/Write
+\\|machineName|\PhysicalDisk(0 C:)\Disk Read Bytes/sec
+\\|machineName|\PhysicalDisk(0 C:)\Disk Reads/sec
+\\|machineName|\PhysicalDisk(0 C:)\Disk Write Bytes/sec
+\\|machineName|\PhysicalDisk(0 C:)\Disk Writes/sec
+\\|machineName|\PhysicalDisk(1 D:)\% Disk Read Time
+\\|machineName|\PhysicalDisk(1 D:)\% Disk Time
+\\|machineName|\PhysicalDisk(1 D:)\% Disk Write Time
+\\|machineName|\PhysicalDisk(1 D:)\% Idle Time
+\\|machineName|\PhysicalDisk(1 D:)\Avg. Disk Bytes/Read
+\\|machineName|\PhysicalDisk(1 D:)\Avg. Disk Bytes/Write
+\\|machineName|\PhysicalDisk(1 D:)\Avg. Disk Queue Length
+\\|machineName|\PhysicalDisk(1 D:)\Avg. Disk Read Queue Length
+\\|machineName|\PhysicalDisk(1 D:)\Avg. Disk Write Queue Length
+\\|machineName|\PhysicalDisk(1 D:)\Avg. Disk sec/Read
+\\|machineName|\PhysicalDisk(1 D:)\Avg. Disk sec/Write
+\\|machineName|\PhysicalDisk(1 D:)\Disk Read Bytes/sec
+\\|machineName|\PhysicalDisk(1 D:)\Disk Reads/sec
+\\|machineName|\PhysicalDisk(1 D:)\Disk Write Bytes/sec
+\\|machineName|\PhysicalDisk(1 D:)\Disk Writes/sec
+\\|machineName|\PhysicalDisk(_Total)\% Disk Read Time
+\\|machineName|\PhysicalDisk(_Total)\% Disk Time
+\\|machineName|\PhysicalDisk(_Total)\% Disk Write Time
+\\|machineName|\PhysicalDisk(_Total)\% Idle Time
+\\|machineName|\PhysicalDisk(_Total)\Avg. Disk Bytes/Read
+\\|machineName|\PhysicalDisk(_Total)\Avg. Disk Bytes/Write
+\\|machineName|\PhysicalDisk(_Total)\Avg. Disk Queue Length
+\\|machineName|\PhysicalDisk(_Total)\Avg. Disk Read Queue Length
+\\|machineName|\PhysicalDisk(_Total)\Avg. Disk Write Queue Length
+\\|machineName|\PhysicalDisk(_Total)\Avg. Disk sec/Read
+\\|machineName|\PhysicalDisk(_Total)\Avg. Disk sec/Write
+\\|machineName|\PhysicalDisk(_Total)\Disk Read Bytes/sec
+\\|machineName|\PhysicalDisk(_Total)\Disk Reads/sec
+\\|machineName|\PhysicalDisk(_Total)\Disk Write Bytes/sec
+\\|machineName|\PhysicalDisk(_Total)\Disk Writes/sec
+\\|machineName|\Process(Fabric)\% Processor Time
+\\|machineName|\Process(Fabric)\Private Bytes
+\\|machineName|\Process(Fabric)\Thread Count
+\\|machineName|\Process(Fabric)\Working Set
+\\|machineName|\Processor(_Total)\% Processor Time
+\\|machineName|\Service Fabric Actor Method\Average milliseconds per invocation
+\\|machineName|\Service Fabric Actor Method\Exceptions thrown/Sec
+\\|machineName|\Service Fabric Actor Method\Invocations/Sec
+\\|machineName|\Service Fabric Actor\# of actor calls waiting for actor lock
+\\|machineName|\Service Fabric Actor\# of outstanding requests
+\\|machineName|\Service Fabric Actor\Average OnActivateAsync milliseconds
+\\|machineName|\Service Fabric Actor\Average milliseconds actor lock held
+\\|machineName|\Service Fabric Actor\Average milliseconds for request deserialization
+\\|machineName|\Service Fabric Actor\Average milliseconds for response serialization
+\\|machineName|\Service Fabric Actor\Average milliseconds per load state operation
+\\|machineName|\Service Fabric Actor\Average milliseconds per lock wait
+\\|machineName|\Service Fabric Actor\Average milliseconds per request
+\\|machineName|\Service Fabric Actor\Average milliseconds per save state operation
+\\|machineName|\Service Fabric Cluster Manager\# of Application Creations
+\\|machineName|\Service Fabric Cluster Manager\# of Application Removals
+\\|machineName|\Service Fabric Cluster Manager\# of Application Upgrades
+\\|machineName|\Service Fabric Component JobQueue(*)\# Items in the JobQueue
+\\|machineName|\Service Fabric Component JobQueue(*)\# Items/Second failed to be inserted into the JobQueue
+\\|machineName|\Service Fabric Component JobQueue(*)\# Items/Second inserted into the job queue
+\\|machineName|\Service Fabric Component JobQueue(*)\Avg. time in ms an item spends in the queue/Operation
+\\|machineName|\Service Fabric ESE Local Store(*)\Async Commits/sec
+\\|machineName|\Service Fabric ESE Local Store(*)\Avg. commit latency (us)
+\\|machineName|\Service Fabric ESE Local Store(*)\Avg. completed commit batch size
+\\|machineName|\Service Fabric ESE Local Store(*)\Avg. completed commit callback duration (us)
+\\|machineName|\Service Fabric ESE Local Store(*)\Avg. read size (bytes)
+\\|machineName|\Service Fabric ESE Local Store(*)\Avg. transaction lifetime (ms)
+\\|machineName|\Service Fabric ESE Local Store(*)\Avg. write size (bytes)
+\\|machineName|\Service Fabric ESE Local Store(*)\Deletes/sec
+\\|machineName|\Service Fabric ESE Local Store(*)\Enumerations/sec
+\\|machineName|\Service Fabric ESE Local Store(*)\Inserts/sec
+\\|machineName|\Service Fabric ESE Local Store(*)\Reads/sec (key)
+\\|machineName|\Service Fabric ESE Local Store(*)\Reads/sec (type)
+\\|machineName|\Service Fabric ESE Local Store(*)\Reads/sec (value)
+\\|machineName|\Service Fabric ESE Local Store(*)\Rollbacks/sec
+\\|machineName|\Service Fabric ESE Local Store(*)\Sync Commits/sec
+\\|machineName|\Service Fabric ESE Local Store(*)\Transactions/sec
+\\|machineName|\Service Fabric ESE Local Store(*)\Updates/sec
+\\|machineName|\Service Fabric Failover Manager Component\#Application Upgrades
+\\|machineName|\Service Fabric Failover Manager Component\#Applications
+\\|machineName|\Service Fabric Failover Manager Component\#Failover Unit Actions
+\\|machineName|\Service Fabric Failover Manager Component\#Failover Units
+\\|machineName|\Service Fabric Failover Manager Component\#InBuild Failover Units
+\\|machineName|\Service Fabric Failover Manager Component\#InBuild Replicas
+\\|machineName|\Service Fabric Failover Manager Component\#Offline Replicas
+\\|machineName|\Service Fabric Failover Manager Component\#Replicas
+\\|machineName|\Service Fabric Failover Manager Component\#Service Types
+\\|machineName|\Service Fabric Failover Manager Component\#Services
+\\|machineName|\Service Fabric Failover Manager Component\#StandBy Replicas
+\\|machineName|\Service Fabric Failover Manager Component\#Unhealthy Failover Units
+\\|machineName|\Service Fabric Failover Manager Component\#Unprocessed Failover Units
+\\|machineName|\Service Fabric Failover Manager Component\Commit Queue Length
+\\|machineName|\Service Fabric Failover Manager Component\Common Queue Length
+\\|machineName|\Service Fabric Failover Manager Component\Failover Unit Commit Duration
+\\|machineName|\Service Fabric Failover Manager Component\Failover Unit Placement Duration
+\\|machineName|\Service Fabric Failover Manager Component\Failover Unit Queue Length
+\\|machineName|\Service Fabric Failover Manager Component\Failover Unit Reconfiguration Duration
+\\|machineName|\Service Fabric Failover Manager Component\Message Process Duration
+\\|machineName|\Service Fabric Failover Manager Component\PLB CompareNodeForPromotion
+\\|machineName|\Service Fabric Failover Manager Component\PLB DeleteApplication
+\\|machineName|\Service Fabric Failover Manager Component\PLB DeleteFailoverUnit
+\\|machineName|\Service Fabric Failover Manager Component\PLB DeleteService
+\\|machineName|\Service Fabric Failover Manager Component\PLB DeleteServiceType
+\\|machineName|\Service Fabric Failover Manager Component\PLB Dispose
+\\|machineName|\Service Fabric Failover Manager Component\PLB GetApplicationLoadInformationResult
+\\|machineName|\Service Fabric Failover Manager Component\PLB GetClusterLoadInformationQueryResult
+\\|machineName|\Service Fabric Failover Manager Component\PLB GetGetUnplacedReplicaInformationQueryResult
+\\|machineName|\Service Fabric Failover Manager Component\PLB GetNodeLoadInformationQueryResult
+\\|machineName|\Service Fabric Failover Manager Component\PLB OnDroppedPLBMovement
+\\|machineName|\Service Fabric Failover Manager Component\PLB OnDroppedPLBMovements
+\\|machineName|\Service Fabric Failover Manager Component\PLB OnExecutePLBMovement
+\\|machineName|\Service Fabric Failover Manager Component\PLB OnFMBusy
+\\|machineName|\Service Fabric Failover Manager Component\PLB ResetPartitionLoad
+\\|machineName|\Service Fabric Failover Manager Component\PLB SetMovementEnabled
+\\|machineName|\Service Fabric Failover Manager Component\PLB ToggleVerboseServicePlacementHealthReporting
+\\|machineName|\Service Fabric Failover Manager Component\PLB TriggerMoveSecondary
+\\|machineName|\Service Fabric Failover Manager Component\PLB TriggerPromoteToPrimary
+\\|machineName|\Service Fabric Failover Manager Component\PLB TriggerSwapPrimary
+\\|machineName|\Service Fabric Failover Manager Component\PLB UpdateApplication
+\\|machineName|\Service Fabric Failover Manager Component\PLB UpdateClusterUpgrade
+\\|machineName|\Service Fabric Failover Manager Component\PLB UpdateFailoverUnit
+\\|machineName|\Service Fabric Failover Manager Component\PLB UpdateLoadOrMoveCost
+\\|machineName|\Service Fabric Failover Manager Component\PLB UpdateNode
+\\|machineName|\Service Fabric Failover Manager Component\PLB UpdateService
+\\|machineName|\Service Fabric Failover Manager Component\PLB UpdateServiceType
+\\|machineName|\Service Fabric Failover Manager Component\Query Queue Length
+\\|machineName|\Service Fabric Health Manager Component\# of Critical Queued Health Reports
+\\|machineName|\Service Fabric Health Manager Component\# of Delayed Persisted Health Reports
+\\|machineName|\Service Fabric Health Manager Component\# of Dropped Critical Health Reports
+\\|machineName|\Service Fabric Health Manager Component\# of Dropped Health Queries
+\\|machineName|\Service Fabric Health Manager Component\# of Dropped Health Reports
+\\|machineName|\Service Fabric Health Manager Component\# of Entities
+\\|machineName|\Service Fabric Health Manager Component\# of Expired Transient Health Reports
+\\|machineName|\Service Fabric Health Manager Component\# of Optimized Health Reports
+\\|machineName|\Service Fabric Health Manager Component\# of Queued Health Reports
+\\|machineName|\Service Fabric Health Manager Component\# of Received Health Queries
+\\|machineName|\Service Fabric Health Manager Component\# of Received Health Reports
+\\|machineName|\Service Fabric Health Manager Component\# of Successful Health Reports
+\\|machineName|\Service Fabric Health Manager Component\Avg. Health Query Processing ms/Operation
+\\|machineName|\Service Fabric Health Manager Component\Avg. Health Report Processing ms/Operation
+\\|machineName|\Service Fabric Health Manager Component\Dropped Health Queries/sec
+\\|machineName|\Service Fabric Health Manager Component\Dropped Health Reports/sec
+\\|machineName|\Service Fabric Health Manager Component\Received Health Queries/sec
+\\|machineName|\Service Fabric Health Manager Component\Received Health Reports/sec
+\\|machineName|\Service Fabric Health Manager Component\Size of Critical Queued Health Reports
+\\|machineName|\Service Fabric Health Manager Component\Size of Queued Health Reports
+\\|machineName|\Service Fabric Health Manager Component\Successful Health Queries/sec
+\\|machineName|\Service Fabric Health Manager Component\Successful Health Reports/sec
+\\|machineName|\Service Fabric Image Builder(*)\Image Builder Failures/sec
+\\|machineName|\Service Fabric Interlocked Bufferpool\Avg. # buffers used by the bufferpool allocators created from the bufferpool/Operation
+\\|machineName|\Service Fabric Interlocked Bufferpool\Avg. # bytes allocated by the bufferpool allocators created from the bufferpool/Operation
+\\|machineName|\Service Fabric Load Balancing Component\#PLB MovementThrottled FailoverUnits
+\\|machineName|\Service Fabric Load Balancing Component\#PLB Movements Add
+\\|machineName|\Service Fabric Load Balancing Component\#PLB Movements AddAndPromote
+\\|machineName|\Service Fabric Load Balancing Component\#PLB Movements Drop
+\\|machineName|\Service Fabric Load Balancing Component\#PLB Movements Dropped By FM
+\\|machineName|\Service Fabric Load Balancing Component\#PLB Movements Move
+\\|machineName|\Service Fabric Load Balancing Component\#PLB Movements None
+\\|machineName|\Service Fabric Load Balancing Component\#PLB Movements Promote
+\\|machineName|\Service Fabric Load Balancing Component\#PLB Movements Swap
+\\|machineName|\Service Fabric Load Balancing Component\#PLB Movements Void
+\\|machineName|\Service Fabric Load Balancing Component\#PLB Pending Movements
+\\|machineName|\Service Fabric Load Balancing Component\#PLB-Generated Actions
+\\|machineName|\Service Fabric Load Balancing Component\#PLBScheduler ConstraintCheck Actions
+\\|machineName|\Service Fabric Load Balancing Component\#PLBScheduler Creation Actions
+\\|machineName|\Service Fabric Load Balancing Component\#PLBScheduler CreationWithMove Actions
+\\|machineName|\Service Fabric Load Balancing Component\#PLBScheduler FastBalancing Actions
+\\|machineName|\Service Fabric Load Balancing Component\#PLBScheduler SlowBalancing Actions
+\\|machineName|\Service Fabric Load Balancing Component\PLB Action Generation Duration
+\\|machineName|\Service Fabric Load Balancing Component\PLBScheduler ConstraintCheck Generation Duration
+\\|machineName|\Service Fabric Load Balancing Component\PLBScheduler Creation Generation Duration
+\\|machineName|\Service Fabric Load Balancing Component\PLBScheduler CreationWithMove Generation Duration
+\\|machineName|\Service Fabric Load Balancing Component\PLBScheduler FastBalancing Generation Duration
+\\|machineName|\Service Fabric Load Balancing Component\PLBScheduler SlowBalancing Generation Duration
+\\|machineName|\Service Fabric Naming Gateway(*)\Client Connections
+\\|machineName|\Service Fabric Naming Gateway(*)\Outstanding Client Requests
+\\|machineName|\Service Fabric Naming Service(*)\AO Create Name avg. duration (us)
+\\|machineName|\Service Fabric Naming Service(*)\AO Create Name req/sec
+\\|machineName|\Service Fabric Naming Service(*)\AO Create Service avg. duration (us)
+\\|machineName|\Service Fabric Naming Service(*)\AO Create Service req/sec
+\\|machineName|\Service Fabric Naming Service(*)\AO Delete Name avg. duration (us)
+\\|machineName|\Service Fabric Naming Service(*)\AO Delete Name req/sec
+\\|machineName|\Service Fabric Naming Service(*)\AO Delete Service avg. duration (us)
+\\|machineName|\Service Fabric Naming Service(*)\AO Delete Service req/sec
+\\|machineName|\Service Fabric Naming Service(*)\AO Update Service avg. duration (us)
+\\|machineName|\Service Fabric Naming Service(*)\AO Update Service req/sec
+\\|machineName|\Service Fabric Naming Service(*)\Enumerate Names avg. duration (us)
+\\|machineName|\Service Fabric Naming Service(*)\Enumerate Names req/sec
+\\|machineName|\Service Fabric Naming Service(*)\Enumerate Properties avg. duration (us)
+\\|machineName|\Service Fabric Naming Service(*)\Enumerate Properties req/sec
+\\|machineName|\Service Fabric Naming Service(*)\Get Service Description avg. duration (us)
+\\|machineName|\Service Fabric Naming Service(*)\Get Service Description req/sec
+\\|machineName|\Service Fabric Naming Service(*)\NO Create Name avg. duration (us)
+\\|machineName|\Service Fabric Naming Service(*)\NO Create Name req/sec
+\\|machineName|\Service Fabric Naming Service(*)\NO Create Service avg. duration (us)
+\\|machineName|\Service Fabric Naming Service(*)\NO Create Service req/sec
+\\|machineName|\Service Fabric Naming Service(*)\NO Delete Name avg. duration (us)
+\\|machineName|\Service Fabric Naming Service(*)\NO Delete Name req/sec
+\\|machineName|\Service Fabric Naming Service(*)\NO Delete Service avg. duration (us)
+\\|machineName|\Service Fabric Naming Service(*)\NO Delete Service req/sec
+\\|machineName|\Service Fabric Naming Service(*)\NO Update Service avg. duration (us)
+\\|machineName|\Service Fabric Naming Service(*)\NO Update Service req/sec
+\\|machineName|\Service Fabric Naming Service(*)\Name Exists avg. duration (us)
+\\|machineName|\Service Fabric Naming Service(*)\Name Exists req/sec
+\\|machineName|\Service Fabric Naming Service(*)\Prefix Resolve avg. duration (us)
+\\|machineName|\Service Fabric Naming Service(*)\Prefix Resolve req/sec
+\\|machineName|\Service Fabric Naming Service(*)\Property Batch avg. duration (us)
+\\|machineName|\Service Fabric Naming Service(*)\Property Batch req/sec
+\\|machineName|\Service Fabric Naming Service(*)\Unrecognized Operation avg. duration (us)
+\\|machineName|\Service Fabric Naming Service(*)\Unrecognized Operation req/sec
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# Commit Failures
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# FTs
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# Locked Entities
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# Of Completed Job items
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# Queued Entities
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# Scheduled Entities
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# Store Commit/sec
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# Store Txn/sec
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# of Active Store Txn
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# of Cleanup Pending FTs
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# of Committing Entities
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# of Completed Upgrades
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# of Reconfiguring FTs
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# of Replica Close Pending FTs
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# of Replica Down Pending FTs
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# of Replica Dropped Pending FTs
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# of Replica Open Pending FTs
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# of Replica Up Pending FTs
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# of Service Description Update Pending FTs
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\# of committing store txn
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\Avg. Entity Commit Time ms/Entity
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\Avg. Entity Lock Time ms/Entity
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\Avg. Entity Schedule Time ms/Entity
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\Avg. Job Items/Entity Lock
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\Commits/sec
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\Federation Messages/sec
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\IPC Messages/sec
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\In-Memory Commits/sec
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\Job Items Completed /sec
+\\|machineName|\Service Fabric Reconfiguration Agent(*)\Job Items Scheduled/sec
+\\|machineName|\Service Fabric Replicated Store(*)\Avg. commit latency (us)
+\\|machineName|\Service Fabric Replicated Store(*)\Avg. copy apply latency (ms)
+\\|machineName|\Service Fabric Replicated Store(*)\Avg. copy creation latency (ms)
+\\|machineName|\Service Fabric Replicated Store(*)\Avg. copy size (bytes)
+\\|machineName|\Service Fabric Replicated Store(*)\Avg. number of keys per transaction
+\\|machineName|\Service Fabric Replicated Store(*)\Avg. replication apply latency (ms)
+\\|machineName|\Service Fabric Replicated Store(*)\Avg. replication latency (us)
+\\|machineName|\Service Fabric Replicated Store(*)\Avg. tombstone cleanup latency (ms)
+\\|machineName|\Service Fabric Replicated Store(*)\Copy operation reads/sec
+\\|machineName|\Service Fabric Replicated Store(*)\Notification Dispatch Queue Size
+\\|machineName|\Service Fabric Replicated Store(*)\Pumped secondary operations/sec
+\\|machineName|\Service Fabric Replicated Store(*)\Replication operations/sec
+\\|machineName|\Service Fabric Replicated Store(*)\Tombstone Count
+\\|machineName|\Service Fabric Replicator(*)\# Bytes Replication Queue
+\\|machineName|\Service Fabric Replicator(*)\# Operations Replication Queue
+\\|machineName|\Service Fabric Replicator(*)\% Replication Queue Usage
+\\|machineName|\Service Fabric Replicator(*)\Avg. Cleanup ms/Operation
+\\|machineName|\Service Fabric Replicator(*)\Avg. Commit ms/Operation
+\\|machineName|\Service Fabric Replicator(*)\Avg. Complete ms/Operation
+\\|machineName|\Service Fabric Replicator(*)\Current Role
+\\|machineName|\Service Fabric Replicator(*)\Enqueued Bytes/Sec
+\\|machineName|\Service Fabric Replicator(*)\Enqueued Operations/Sec
+\\|machineName|\Service Fabric Transactional Replicator(*)\# Checkpoints
+\\|machineName|\Service Fabric Transactional Replicator(*)\# Inflight visibility sequence numbers
+\\|machineName|\Service Fabric Transactional Replicator(*)\Abort Txns/sec
+\\|machineName|\Service Fabric Transactional Replicator(*)\Atomic Operations/sec
+\\|machineName|\Service Fabric Transactional Replicator(*)\Avg. Transaction ms/Commit
+\\|machineName|\Service Fabric Transactional Replicator(*)\Begin Txn Operations/sec
+\\|machineName|\Service Fabric Transactional Replicator(*)\Commit Txns/sec
+\\|machineName|\Service Fabric Transactional Replicator(*)\Incoming Bytes/sec
+\\|machineName|\Service Fabric Transactional Replicator(*)\Last Log Recovery duration seconds
+\\|machineName|\Service Fabric Transactional Replicator(*)\Last State Manager Recovery duration seconds
+\\|machineName|\Service Fabric Transactional Replicator(*)\Log Flush Bytes/sec
+\\|machineName|\Service Fabric Transactional Replicator(*)\Log Flush Records/sec
+\\|machineName|\Service Fabric Transactional Replicator(*)\Number of bytes flushed per IO
+\\|machineName|\Service Fabric Transactional Replicator(*)\Throttled Operations/sec
+\\|machineName|\Service Fabric Transactional Replicator(*)\Txn Operations/sec
+\\|machineName|\Service Fabric Transport(*)\# of Active Callback
+\\|machineName|\Service Fabric Transport(*)\Avg. TCP send size (bytes)
+\\|machineName|\TCPv4\Connection Failures
+\\|machineName|\TCPv4\Connections Active
+\\|machineName|\TCPv4\Connections Passive
+\\|machineName|\TCPv4\Connections Reset
+\\|machineName|\TCPv4\Segments Received/sec
+\\|machineName|\TCPv4\Segments Retransmitted/sec
+\\|machineName|\TCPv4\Segments Sent/sec
+\\|machineName|\TCPv6\Connection Failures
+\\|machineName|\TCPv6\Connections Active
+\\|machineName|\TCPv6\Connections Passive
+\\|machineName|\TCPv6\Connections Reset
+\\|machineName|\TCPv6\Segments Received/sec
+\\|machineName|\TCPv6\Segments Retransmitted/sec
+\\|machineName|\TCPv6\Segments Sent/sec

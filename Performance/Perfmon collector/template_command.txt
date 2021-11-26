@@ -1,0 +1,1 @@
+LogMan create counter PerfCollector_|ServerName|_|InstanceName|  -o C:\PerfLogs\PerfCollector.|ServerName|_|InstanceName|_|TimeStamp|.blg -f bin -cf "|WorkingFolder|\Counters_|ServerName|_|InstanceName|.txt" -si 10 -u "|UserName|" *
