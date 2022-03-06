@@ -12,10 +12,8 @@
 [CmdletBinding()]
 param (
     [Parameter(Mandatory=$true)]
-    [TypeName("System.String")]
     $workspaceName,
     [Parameter(Mandatory=$true)]
-    [TypeName("System.String")]
     $tenantId
 )
 
